@@ -10,7 +10,7 @@ const projects = [
     title: "Sistema de Precificação de Produtos",
     description:
       "Sistema em andadmento para precificação e criação de Receitas culinárias, com sistema de autenticação, dashboard, controle de estoque, controle financeiro, exportação de Receitas em PDFs, Cadastro de fornecedores entre outras funcionalidades.",
-    image: "/price.jpg?height=400&width=600",
+    image: "/price.png?height=400&width=600",
     technologies: ["React", "Next.js", "TypeScript", "PostgreSQL", "Nest.JS", "Prisma", "Tailwind CSS"],
     liveUrl: "https://price-lyart-kappa.vercel.app/",
     githubUrl: "https://github.com/JoaoVicto0r/price",
