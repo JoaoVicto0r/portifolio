@@ -7,7 +7,7 @@ import { Button } from "../components/ui/button"
 
 const projects = [
   {
-    title: "Sistema de Precificação de Produtos",
+    title: "Sistema de Precificação de Produtos - EM MANUTENÇÂO",
     description:
       "Sistema em andadmento para precificação e criação de Receitas culinárias, com sistema de autenticação, dashboard, controle de estoque, controle financeiro, exportação de Receitas em PDFs, Cadastro de fornecedores entre outras funcionalidades.",
     image: "/price.png?height=400&width=600",
