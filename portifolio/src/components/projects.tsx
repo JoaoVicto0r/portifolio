@@ -12,8 +12,8 @@ const projects = [
       "Sistema em andadmento para precificação e criação de Receitas culinárias, com sistema de autenticação, dashboard, controle de estoque, controle financeiro, exportação de Receitas em PDFs, Cadastro de fornecedores entre outras funcionalidades.",
     image: "/price.png?height=400&width=600",
     technologies: ["React", "Next.js", "TypeScript", "PostgreSQL", "Nest.JS", "Prisma", "Tailwind CSS"],
-    liveUrl: "https://price-lyart-kappa.vercel.app/",
-    githubUrl: "https://github.com/JoaoVicto0r/price",
+    liveUrl: "https://project-psi-seven-46.vercel.app/",
+    githubUrl: "https://github.com/JoaoVicto0r/Project",
   },
   {
     title: "API de autenticação com Nest.js",
